@@ -9,7 +9,9 @@ nav_order: 1
 ### Heading (small)
 
 **bold text uses double asterisks**
+
 *italicized text uses single asterisks*
+
 ***both is three asterisks***
 
 ![Alt text](https://cdn.shopify.com/s/files/1/0598/1444/5195/articles/Untitled_design_8_1200x.png?v=1661283087)
@@ -17,14 +19,14 @@ nav_order: 1
 
 ![Alt text](/relative/path/to/image) 
 
-##List of iSci3A12 components
+## List of iSci3A12 components
 1. Wine Science
 2. Climate Change
 3. LUE
 4. IP
 5. SciLit
 
-##List of iSci2A18 components
+## List of iSci2A18 components
 - PAIx
 - Drug Discovery
 - Math
@@ -36,7 +38,7 @@ nav_order: 1
 
 [NASA Website](https://www.bing.com/ck/a?!&&p=b57e2004ab7e0104285acf817fe65cb937c4481dbbdc78be5526e501a824795aJmltdHM9MTc5MTMzMTIwMA&ptn=3&ver=2&hsh=4&fclid=3887dc1a-1543-6b5b-14f3-cbd0146a6a24&psq=nasa&u=a1aHR0cHM6Ly93d3cubmFzYS5nb3Yv)
 
-print("Hello World")
+print ("Hello World")
 
 | A | B | C |
 |--------|-----|------------|
